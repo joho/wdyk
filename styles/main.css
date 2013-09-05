@@ -218,10 +218,10 @@ a img {
   background: url("../images/japaneserobot.gif");
 }
 .robot h1 {
-  border-top: 5px solid #808080;
-  border-left: 5px solid #808080;
-  border-right: 5px solid #000;
-  border-bottom: 5px solid #000;
+  border-top: 8px solid #808080;
+  border-left: 8px solid #808080;
+  border-right: 8px solid #000;
+  border-bottom: 8px solid #000;
   background-color: #bfbfbf;
   padding: 0.6em 1.2em;
 }
