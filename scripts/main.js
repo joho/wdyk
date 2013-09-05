@@ -4,6 +4,7 @@ bespoke.horizontal.from('article', {
 });
 
 var countdownTimer = function(e) {
+  confirm("Start Presentation Now?");
   var start = new Date().getTime();
 
   setInterval(function () {
