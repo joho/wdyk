@@ -225,3 +225,11 @@ a img {
   background-color: #bfbfbf;
   padding: 0.6em 1.2em;
 }
+#clock {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 3em;
+  padding: 5px 20px;
+  z-index: 100;
+}
