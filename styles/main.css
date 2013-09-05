@@ -114,7 +114,7 @@ article.bespoke-parent {
 }
 .trojan-horse {
   background-color: #000;
-  background: url("/images/beach-waves-o.gif") no-repeat center center;
+  background: url("../images/beach-waves-o.gif") no-repeat center center;
   -webkit-filter: blur(1px) grayscale(0.3) brightness(0.4);
   -webkit-transform: scale(6.5);
 }
@@ -133,7 +133,7 @@ article.bespoke-parent {
   height: 100%;
 }
 .peelers {
-  background: url("/images/objectified_peelers.jpg") no-repeat 50% 50%;
+  background: url("../images/objectified_peelers.jpg") no-repeat 50% 50%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -215,7 +215,7 @@ a img {
   border: solid 3px #00f;
 }
 .robot {
-  background: url("/images/japaneserobot.gif");
+  background: url("../images/japaneserobot.gif");
 }
 .robot h1 {
   border-top: 5px solid #808080;
